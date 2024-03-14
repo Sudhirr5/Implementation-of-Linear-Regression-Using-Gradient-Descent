@@ -51,7 +51,6 @@ new_scaled_with_intercept = np.append(1, new_scaled)
 prediction = np.dot(new_scaled_with_intercept, theta)
 prediction = scaler.inverse_transform(prediction.reshape(-1, 1))
 print(f"Predicted value: {prediction}")
-printf("\n")
 ```
 
 ## Output:
@@ -59,7 +58,6 @@ printf("\n")
 ![pic](scr2.png)
 ![pic](scr3.png)
 ![pic](scr4.png)
-![linear regression using gradient descent](sam.png)
 
 
 ## Result:
