@@ -9,13 +9,9 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Initialize weights randomly.
-
 2.Compute predicted values.
-
 3.Compute gradient of loss function.
-
 4.Update weights using gradient descent.
-
 
 ## Program:
 ```
