@@ -56,5 +56,10 @@ print(f"Predicted value: {prediction}")
 ![pic](scr4.png)
 
 
+
+
+
+
+
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
